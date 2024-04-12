@@ -10,7 +10,7 @@ In the second one is used Amplyfy shader.
 The second one is very similar to the 3rd because they use the vfx graph that makes particles and trails to creat the rain effect.
 A camera capture instantly the fx and a Render Texture that I calle "RenderTex" records it in the texture.
 So both of them (second and 3rd) use vfx graphs to make the effect because their shaders use the render texture.
-![alt text](https://github.com/sanliuk/RainDrop/blob/master/Screenshot%202024-04-11%20132714.png
+![alt text](https://github.com/sanliuk/DropRain-Unity-Shader-Wet-VFX/blob/master/Screenshot%202024-04-11%20132714.png
 )"My approach with camera and vfx graph method"
 ## Controllers:
 # Speed,  wet/dry effect, tiling offset UV.
@@ -40,7 +40,7 @@ Thank you
 
 If you want to watch the preview CLICK THIS IMAGE:
 
-[![](https://github.com/sanliuk/RainDrop/blob/master/Screenshot%202024-04-11%20165753.png)](https://youtu.be/5yO5I5KjFlI)
+[![](https://github.com/sanliuk/DropRain-Unity-Shader-Wet-VFX/blob/master/Screenshot%202024-04-11%20165753.png)](https://youtu.be/5yO5I5KjFlI)
 
 
 
