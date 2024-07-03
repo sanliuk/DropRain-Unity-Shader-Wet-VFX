@@ -41,7 +41,7 @@ Thank you
 If you want to watch the preview CLICK THIS IMAGE:
 
 [![](https://github.com/sanliuk/DropRain-Unity-Shader-Wet-VFX/blob/master/Screenshot%202024-04-11%20165753.png)](https://youtu.be/5yO5I5KjFlI)
-[![](https://github.com/sanliuk/DropRain-Unity-Shader-Wet-VFX/blob/master/Screenshot%202024-04-11%20165753.png)]([https://youtu.be/5yO5I5KjFlI](https://youtu.be/HmYk7PJzuuY))
+([https://youtu.be/5yO5I5KjFlI](https://youtu.be/HmYk7PJzuuY))
 
 
 
