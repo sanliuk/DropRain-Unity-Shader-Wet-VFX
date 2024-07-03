@@ -1,3 +1,4 @@
+#It works with HDRP and both for URP
 ## What I've done:
 
 So Basically I mad three different ways to make the same fx and I called the object  in the scene with the same name:
